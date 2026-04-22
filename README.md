@@ -1,4 +1,5 @@
 # BotX - AI-Powered Mobile Assistant
+--------------------------------------
 
 A production-ready Flutter mobile AI assistant app with voice control, chat interface, and smart tools. Built for Android (API 21+).
 

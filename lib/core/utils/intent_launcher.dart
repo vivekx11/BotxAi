@@ -4,6 +4,8 @@ import 'package:android_intent_plus/flag.dart';
 class IntentLauncher {
   IntentLauncher._();
   
+  // main opertor 
+  
   static final Map<String, String> _appPackages = {
     'instagram': 'com.instagram.android',
     'youtube': 'com.google.android.youtube',

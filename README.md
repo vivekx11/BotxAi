@@ -4,7 +4,7 @@
 A production-ready Flutter mobile AI assistant app with voice control, chat interface, and smart tools. Built for Android (API 21+).
 
 ## 🚀 Features
-
+---------------------------------------
 ### Core Features
 - **AI Chat Interface** - Powered by Google Gemini 1.5 Flash
 - **Voice Assistant** - Speech-to-text and text-to-speech capabilities

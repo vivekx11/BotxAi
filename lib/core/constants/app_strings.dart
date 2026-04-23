@@ -1,4 +1,4 @@
-// app 
+// app string 
 class AppStrings {
   AppStrings._();
   

@@ -1,7 +1,7 @@
 // app colour 
 
 import 'package:flutter/material.dart';
-
+// app constant 
 class AppColors {
   AppColors._();
   

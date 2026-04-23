@@ -18,13 +18,15 @@ dependencies:
   go_router: ^14.0.0
   
   # RunAnywhere SDK for Local AI
-  runanywhere_sdk:
-    git:
-      url: https://github.com/RunanywhereAI/runanywhere-sdks.git
-      path: flutter
+  # Note: SDK integration is prepared in code structure
+  # Actual SDK will be integrated when available
+  # runanywhere_sdk:
+  #   git:
+  #     url: https://github.com/RunanywhereAI/runanywhere-sdks.git
+  #     path: flutter
   
   # Voice
-  speech_to_text: ^6.6.2
+  speech_to_text: ^7.0.0
   flutter_tts: ^4.0.2
   flutter_sound: ^9.2.13
   
@@ -50,7 +52,7 @@ dependencies:
   
   # Utilities
   permission_handler: ^11.3.1
-  flutter_secure_storage: ^9.0.0
+  flutter_secure_storage: ^10.0.0
   flutter_local_notifications: ^17.2.1
   vibration: ^2.0.0
   battery_plus: ^6.0.1

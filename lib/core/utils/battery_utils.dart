@@ -1,4 +1,4 @@
-// battery update 
+// battery update for system 
 
 import 'package:battery_plus/battery_plus.dart';
 

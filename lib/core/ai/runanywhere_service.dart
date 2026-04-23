@@ -24,6 +24,7 @@ class RunAnywhereService {
   /// Initialize RunAnywhere SDK
   Future<bool> initialize() async {
     if (_isInitialized) return true;
+    // run on local 
     
     try {
       debugPrint('🤖 Initializing RunAnywhere SDK...');

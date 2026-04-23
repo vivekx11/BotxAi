@@ -1,4 +1,4 @@
-//app 
+//app size 
 class AppSizes {
   AppSizes._();
   

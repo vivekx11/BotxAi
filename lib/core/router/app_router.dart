@@ -15,7 +15,7 @@ import '../../features/tools/translator/screens/translator_screen.dart';
 import '../../features/settings/screens/settings_screen.dart';
 import '../../features/settings/screens/about_screen.dart';
 import '../../features/settings/screens/profile_screen.dart';
-
+// final phase 
 final appRouterProvider = Provider<GoRouter>((ref) {
   return GoRouter(
     initialLocation: '/splash',

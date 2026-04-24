@@ -11,7 +11,7 @@ A production-ready Flutter mobile AI assistant app with voice control, chat inte
 - **Smart App Control** - Open and control apps via voice or text commands
 - **Offline Mode** - Basic functionality without internet connection
 - **Beautiful UI** - Glassmorphism design with animated gradients
-
+----------------------------------------
 ### Smart Tools
 - **Calculator** - Standard and scientific calculations
 - **Notes** - Create and manage notes with color coding

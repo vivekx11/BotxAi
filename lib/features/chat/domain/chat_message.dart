@@ -1,3 +1,5 @@
+// chat message
+
 import 'package:hive/hive.dart';
 
 part 'chat_message.g.dart';
